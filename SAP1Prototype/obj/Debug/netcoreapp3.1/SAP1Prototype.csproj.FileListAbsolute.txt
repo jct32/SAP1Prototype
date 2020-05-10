@@ -1,0 +1,12 @@
+C:\Workspace\SAP1Prototype\SAP1Prototype\bin\Debug\netcoreapp3.1\SAP1Prototype.exe
+C:\Workspace\SAP1Prototype\SAP1Prototype\bin\Debug\netcoreapp3.1\SAP1Prototype.deps.json
+C:\Workspace\SAP1Prototype\SAP1Prototype\bin\Debug\netcoreapp3.1\SAP1Prototype.runtimeconfig.json
+C:\Workspace\SAP1Prototype\SAP1Prototype\bin\Debug\netcoreapp3.1\SAP1Prototype.runtimeconfig.dev.json
+C:\Workspace\SAP1Prototype\SAP1Prototype\bin\Debug\netcoreapp3.1\SAP1Prototype.dll
+C:\Workspace\SAP1Prototype\SAP1Prototype\bin\Debug\netcoreapp3.1\SAP1Prototype.pdb
+C:\Workspace\SAP1Prototype\SAP1Prototype\obj\Debug\netcoreapp3.1\SAP1Prototype.csproj.CoreCompileInputs.cache
+C:\Workspace\SAP1Prototype\SAP1Prototype\obj\Debug\netcoreapp3.1\SAP1Prototype.AssemblyInfoInputs.cache
+C:\Workspace\SAP1Prototype\SAP1Prototype\obj\Debug\netcoreapp3.1\SAP1Prototype.AssemblyInfo.cs
+C:\Workspace\SAP1Prototype\SAP1Prototype\obj\Debug\netcoreapp3.1\SAP1Prototype.dll
+C:\Workspace\SAP1Prototype\SAP1Prototype\obj\Debug\netcoreapp3.1\SAP1Prototype.pdb
+C:\Workspace\SAP1Prototype\SAP1Prototype\obj\Debug\netcoreapp3.1\SAP1Prototype.genruntimeconfig.cache
